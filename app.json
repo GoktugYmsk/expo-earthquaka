@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "earthquake-warning",
+    "slug": "earthquake-warning",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gktug.earthquakewarning"
+    },
+    "web": {
+      "favicon": "./assets/images.png"
+    },
+    "owner": "gktug",
+    "extra": {
+      "eas": {
+        "projectId": "f5a4967f-55b2-4142-8ce4-8f9874e7fce2"
+      }
+    }
+  }
+}
