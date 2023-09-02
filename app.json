@@ -27,6 +27,11 @@
     "web": {
       "favicon": "./assets/images.png"
     },
-    "owner": "gktug"
+    "owner": "gktug",
+    "extra": {
+      "eas": {
+        "projectId": "f5a4967f-55b2-4142-8ce4-8f9874e7fce2"
+      }
+    }
   }
 }
