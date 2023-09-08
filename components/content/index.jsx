@@ -51,7 +51,6 @@ function CustomContent({ earthquakes }) {
 
 const styles = StyleSheet.create({
     earthquake: {
-
         display: 'flex',
         padding: 4,
         backgroundColor: 'white'

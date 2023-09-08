@@ -37,6 +37,7 @@ const styles = StyleSheet.create({
         marginTop: 10,
         padding: 20,
         color: 'white',
+        borderRadius: 12,
     },
     location: {
         color: 'white',
